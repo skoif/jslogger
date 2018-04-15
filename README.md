@@ -1,5 +1,8 @@
 # JavaScript logger
-
+Usage:
+```
+npm install https://github.com/skoif/jslogger.git
+```
 Code example:
 ```ecmascript 6
 const Logger = require('jslogger');
