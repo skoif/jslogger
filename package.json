@@ -1,0 +1,25 @@
+{
+  "name": "jslogger",
+  "version": "1.0.0",
+  "description": "JavaScript ES6 logger",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://skoif@github.com/skoif/jslogger.git"
+  },
+  "keywords": [
+    "JS",
+    "JavaScript",
+    "ES6",
+    "logger"
+  ],
+  "author": "Alexander Zemskov",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/skoif/jslogger/issues"
+  },
+  "homepage": "https://github.com/skoif/jslogger#readme"
+}
