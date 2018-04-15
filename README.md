@@ -1,0 +1,2 @@
+# jslogger
+Javascript logger
